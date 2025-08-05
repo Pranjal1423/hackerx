@@ -1,3 +1,8 @@
+# Build tools required for some source builds
+setuptools>=70.0.0
+wheel>=0.43.0
+build>=1.2.1
+
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
 sentence-transformers==2.7.0
